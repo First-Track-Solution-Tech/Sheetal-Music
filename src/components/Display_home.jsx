@@ -8,7 +8,7 @@ const Display_home = () => {
   return (
     <>
     <Element_nav/>
-   <div className='p-6 bg-gradient-to-b from-[#3b1d5a] via-[#1a1224] to-[#121212]'>
+   <div className='p-6 bg-gradient-to-b from-[#1a082e] to-black'>
     <div className='mb-4 '>
         <h1 className='my-5 font-bold text-2xl'>Album Trends</h1>
         <div className='flex overflow-auto'>
