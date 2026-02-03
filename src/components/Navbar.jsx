@@ -15,7 +15,7 @@ const Navbar = () => {
         <div className="flex items-center gap-4">
           <img
             src={assets.music_logo}
-            alt="logo"
+            alt="logo1"
             className="h-4 invert"
           />
            </div>
